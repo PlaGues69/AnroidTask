@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139574640118",
+    "project_id": "task-aa658",
+    "storage_bucket": "task-aa658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139574640118:android:58c56166113697fcba9bd7",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7XiKdhcYg1WjlWnpOWDaNhcpBpxpx-vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
